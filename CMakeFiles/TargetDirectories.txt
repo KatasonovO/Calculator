@@ -1,0 +1,4 @@
+/home/cppbcuser/homeworks/calculator/calculator/CMakeFiles/rebuild_cache.dir
+/home/cppbcuser/homeworks/calculator/calculator/CMakeFiles/edit_cache.dir
+/home/cppbcuser/homeworks/calculator/calculator/CMakeFiles/calculator.dir
+/home/cppbcuser/homeworks/calculator/calculator/CMakeFiles/libcalculator.dir
